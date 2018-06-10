@@ -1,0 +1,2 @@
+dotnet SQLDatabaseBulkCompare.dll
+pause
